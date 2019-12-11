@@ -1,0 +1,10 @@
+{
+  "simulation": "fti.GoEgyptTemplateExploreSimulation",
+  "simulationId": "goegypttemplateexploresimulation",
+  "start": 1576078166914,
+  "description": "",
+  "scenarios": ["GoEgyptTemplateExploreSimulation"],
+  "assertions": [
+
+  ]
+}
